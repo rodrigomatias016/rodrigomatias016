@@ -4,10 +4,6 @@
 
 Sou um profissional/estudante na área de desenvolvimento de software, com um foco em **Python**. Minha jornada é movida pela curiosidade e pela vontade de construir soluções que resolvem problemas reais. 
 
----
-
-
----
 
 ### 📫 Como me encontrar
 
